@@ -1,0 +1,6 @@
+.sublime-project
+.sublime-workspace
+_site/*
+.DS_Store
+*.sublime-workspace
+*.sublime-project
